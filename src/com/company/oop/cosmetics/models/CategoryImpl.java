@@ -54,9 +54,9 @@ public class CategoryImpl implements Category {
         strBuilder.append(String.format("#Category: %s%n", name));
         for (Product product : products) {
             strBuilder.append(product.print());
-            strBuilder.append(" ===");
+            strBuilder.append(" ===").append(System.lineSeparator());
         }
-        return strBuilder.toString();
+        return strBuilder.toString().trim();
     }
 
 }

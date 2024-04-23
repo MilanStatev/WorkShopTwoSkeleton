@@ -5,21 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c94df0-a63b-4906-8597-031c4a1d1e64" name="Changes" comment="Change exception message">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/BaseProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/CreamImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Cream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateCreamCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateCreamCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateShampooCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateShampooCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateToothpasteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/commands/CreateToothpasteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/CommandFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/CommandFactoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/CosmeticsRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/CosmeticsRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/contracts/CosmeticsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/core/contracts/CosmeticsRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/CategoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/CategoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/src/com/company/oop/cosmetics/models/CategoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Solution/src/com/company/oop/cosmetics/models/CategoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/ShampooImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/ShampooImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/ToothpasteImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/ToothpasteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Shampoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Shampoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Toothpaste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/oop/cosmetics/models/contracts/Toothpaste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/com/company/oop/cosmetics/tests/commands/CreateCreamCommandTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/com/company/oop/cosmetics/tests/commands/CreateCreamCommandTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/com/company/oop/cosmetics/tests/models/CreamTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/tests/com/company/oop/cosmetics/tests/models/CreamTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2T1GTFgzsVBgj3fXPkZulIC0POB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,14 +58,50 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/chavdar/Documents/JAVA projects/0. Resources/flipped-java/02. OOP/Workshops/01. Cosmetics/Skeleton",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company.oop.cosmetics.models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Skeleton">
+    <configuration name="Startup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.oop.cosmetics.Startup" />
+      <module name="Skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.oop.cosmetics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Skeleton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Skeleton" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Skeleton" />
+        <item itemvalue="Application.Startup" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,5 +142,20 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Change exception message" />
     <option name="LAST_COMMIT_MESSAGE" value="Change exception message" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/oop/cosmetics/models/CategoryImpl.java</url>
+          <line>40</line>
+          <properties class="com.company.oop.cosmetics.models.CategoryImpl" method="removeProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

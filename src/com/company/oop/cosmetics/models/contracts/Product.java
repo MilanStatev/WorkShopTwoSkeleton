@@ -2,7 +2,7 @@ package com.company.oop.cosmetics.models.contracts;
 
 import com.company.oop.cosmetics.models.enums.GenderType;
 
-public interface Product {
+public interface Product{
 
     String getName();
 
